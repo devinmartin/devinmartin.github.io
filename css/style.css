@@ -1,0 +1,188 @@
+/*
+	|--------------------------------------------------------------------------|
+	|	Custom Styles
+	|--------------------------------------------------------------------------|
+
+*/
+
+.jumbotron
+{
+	margin-bottom: 0;
+}
+
+.jumbotron h1, 
+.jumbotron h2, 
+.jumbotron h3, 
+.jumbotron h4
+{
+	text-transform: uppercase;
+}
+
+
+
+/*
+	|--------------------------------------------------------------------------|
+	|	Custom Components
+	|--------------------------------------------------------------------------|
+
+*/
+
+.body-container
+{
+	padding-top: 50px;
+}
+
+
+
+
+.cs-carousel-container
+{
+	text-align: center;
+	height: auto;
+}
+
+
+
+.cs-carousel-container .cs-carousel-img
+{
+	position: relative;
+	width: 100%;
+	padding-bottom: 56.25%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: contain;
+}
+
+.cs-carousel-imgPush .item
+{
+	padding-bottom: 100px;
+}
+
+
+.carousel-caption
+{
+	bottom: 0px;
+	padding: 16px 15% 50px;
+}
+
+.cs-carousel-elementDisplay .carousel-caption
+{
+	display: block;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	background-color: rgba(0,0,0,.75);
+
+}
+
+.cs-carousel-elementDisplay .carousel-control>span
+{
+	top: 40%;
+}
+
+.carousel-indicators
+{
+	bottom: 12px;
+}
+
+
+.cs-carousel-container .carousel-caption
+{
+	font-size: 1.2em;
+	text-shadow: 0 1px 4px rgba(0,0,0,.75);
+}
+
+
+.cs-feature
+{
+	text-align: center;
+}
+
+
+.cs-dark
+{
+	background-color: #444;
+	color: #ccc;
+}
+.cs-light
+{
+	background-color: #eee;
+	color: #444;
+}
+
+.cs-blue
+{
+	background-color: #336699;
+	color: #cde;
+}
+
+.cs-dark h1, .cs-blue h1,
+.cs-dark h2, .cs-blue h2,
+.cs-dark h3, .cs-blue h3
+{
+	color: #fff;
+}
+
+
+.cs-form .input-group
+{
+	padding-bottom: 8px;
+}
+
+/*
+	|----------------------------------------------|
+	|	Container Elements
+	|----------------------------------------------|
+
+*/
+
+.cs-container
+{
+	padding: 30px 0;
+}
+
+.cs-carousel-container
+{
+	display: block;
+	position: relative;
+	overflow: auto;
+	background-color: #444;
+}
+
+/*
+	|----------------------------------------------|
+	|	Background Elements
+	|----------------------------------------------|
+
+*/
+
+.bg-contain, .bg-cover
+{
+	background-position: 0%;
+	background-repeat: no-repeat;
+}
+
+
+.bg-contain
+{
+	background-size: contain;
+}
+
+.bg-cover
+{
+	background-size: cover;
+}
+
+
+
+.bg-left
+{
+	background-position: left;
+}
+
+.bg-right
+{
+	background-position: right;
+}
+
+

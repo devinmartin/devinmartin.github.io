@@ -5,4 +5,4 @@ layout: example-list
 
 # test #
 
-this is a test
+Testing the Github hosting system. This is quite cool.

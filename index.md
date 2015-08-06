@@ -1,6 +1,6 @@
 ---
 title: Test Page
-layout: example-list
+layout: default
 ---
 
 # test #

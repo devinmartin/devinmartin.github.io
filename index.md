@@ -1,6 +1,6 @@
 ---
 title: Test Page
-layout: default
+layout: main
 ---
 
 # test #

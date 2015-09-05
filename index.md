@@ -1,8 +1,5 @@
 ---
-title: Test Page
+title: Virtual Private Lessons
 layout: default
 ---
 
-# test #
-
-Testing the Github hosting system. This is quite cool.
